@@ -102,5 +102,3 @@ The architecture and implementation can be adapted for other domains like financ
 ## Author
 **Rajakashyap77**  
 GitHub: https://github.com/rajakashyap77
-**Rajakashyap77**  
-GitHub: https://github.com/rajakashyap77
